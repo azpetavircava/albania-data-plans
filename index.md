@@ -62,3 +62,10 @@ layout: default
 
 　　希望这份指南能让你在阿尔巴尼亚的山水之间，永远在线，永不迷路。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Albania SIM 卡购买与激活指南](https://faciylike.github.io/albania-sim-guides)
